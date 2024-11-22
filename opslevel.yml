@@ -1,0 +1,13 @@
+version: 1
+services:
+  - name: my-service
+    description: "My service description"
+    tags:
+      - name: tag1
+      - name: tag2
+    owner:
+      name: "John Doe"
+      email: 
+    ecr:
+      repository: 
+      
